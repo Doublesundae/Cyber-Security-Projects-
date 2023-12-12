@@ -1,4 +1,4 @@
-# Cyber-Security-Projects-
+# Cyber-Security-Projects
 
 <h1>Hi, I'm Khieandre  <br/><a href="https://github.com/Doublesundae">Help Desk Tech</a>, <a href="https://www.linkedin.com/in/khieandre-grant-2205b77a/">Aspiring Cybersecurity Professional</a>
 
