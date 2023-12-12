@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Vulnerability Scan Using Nessus </b>
-  - [<i>Vulnerability Scan Using Nessus</i>](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [<i>Vulnerability Scan Using Nessus</i>](https://github.com/Doublesundae/Nessus-Project-/tree/main)
 - <b>Active Directory Home Lab</b>
   - [<i>Active Directory Home Lab</i>](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Azure Sentinel SIEM and Honeypot</b>
