@@ -1,44 +1,58 @@
 # Cyber-Security-Projects-
 
-<h1>Hi, I'm Khieandre  <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Khieandre  <br/><a href="https://github.com/Doublesundae">Help Desk Tech</a>, <a href="https://www.linkedin.com/in/khieandre-grant-2205b77a/">Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Vulnerability Scan Using Nessus </b>
+  - [<i>Vulnerability Scan Using Nessus</i>](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory Home Lab</b>
+  - [<i>Active Directory Home Lab</i>](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- <b>Azure Sentinel SIEM and Honeypot</b>
+  - [<i>Azure Sentinel SIEM and Honeypot</i>](https://github.com/joshmadakor1/Sentinel-Lab)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>👨‍💻 Cyber Security Certifications:</h2>
+<br/><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-I6WULFSZOU.png"> SOC level 1 </a>
+<br/>
+In the Junior Security Analyst role, you will be a Triage Specialist. You will spend a significant portion of your time triaging or monitoring the event logs and alerts.
+<br/>The responsibilities of a Junior Security Analyst or Tier 1 SOC Analyst include the following:
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<br/> - Monitor and investigate alerts (most of the time, it's a 24x7 SOC operations environment)
+<br/> - Configure and manage security tools
+<br/> - Develop and implement IDS signatures
+<br/> - Escalate the security incidents to the Tier 2 and Team Lead if needed
+<br/>
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br/><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SBQHODZYOC.png"> Cyber Defense  </a>
+<br/>
+<br/> The Cyber Defense path aims to give a broad introduction to the different areas necessary to detect and respond to threats. This path will be looking at the following areas:
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<br/> - Threat and Vulnerability Management
+<br/> - Security Operations and Monitoring
+<br/> - Threat Emulation
+<br/> - Incident Response & Forensics
+<br/> - Malware Analysis and Reverse Engineering
+
+<br/> Once you complete this path, you should have the fundamental components of detecting and responding to threats in a corporate environment and using these core concepts to build your understanding of more complex topics within this field.
+<br/>
+
+
+<br/><a href="https://www.coursera.org/account/accomplishments/professional-cert/H3EF4WNQEXL5">Google Cyber Security </a>
+<br/>
+<br/> - Learnt and unstand the importance of cybersecurity practices and their impact for organizations.
+<br/> - Identify common risks, threats, and vulnerabilities, as well as techniques to mitigate them.
+<br/> - Gain hands-on experience with Python, Linux, and SQL.
+<br/> - Protect networks, devices, people, and data from unauthorized access and cyberattacks using Security Information and Event Management (SIEM) tools.
+<br/>
+
+<br/><a href="https://drive.google.com/file/d/1cddKS1FbuZcpYpRircjtvOyUABJChHft/view"> Microsoft 365 Certified </a>
+
+
+<br/> Comptia Secuirty + (In Progress)
+
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
