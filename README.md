@@ -7,7 +7,7 @@
 - <b>Vulnerability Scan Using Nessus </b>
   - [<i>Vulnerability Scan Using Nessus</i>](https://github.com/Doublesundae/Nessus-Project-/tree/main)
 - <b>Active Directory Home Lab</b>
-  - [<i>Active Directory Home Lab</i>](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [<i>Active Directory Home Lab</i>](https://github.com/Doublesundae/Active-Directory-Project-) 
 - <b>Azure Sentinel SIEM and Honeypot</b>
   - [<i>Azure Sentinel SIEM and Honeypot</i>](https://github.com/joshmadakor1/Sentinel-Lab)
 
