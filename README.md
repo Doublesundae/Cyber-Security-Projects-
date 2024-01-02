@@ -1,4 +1,4 @@
-# Cyber-Security-Protfolio 
+# Cyber-Security-Portfolio 
 
 <h1>Hi, I'm Khieandre  <br/><a href="https://github.com/Doublesundae">Help Desk Tech</a>, <a href="https://www.linkedin.com/in/khieandre-grant-2205b77a/">Aspiring Cybersecurity Professional</a>
 
@@ -43,7 +43,7 @@ In the Junior Security Analyst role, you will be a Triage Specialist. You will s
 
 <br/><a href="https://www.coursera.org/account/accomplishments/professional-cert/H3EF4WNQEXL5">Google Cyber Security </a>
 <br/>
-<br/> - Learnt and unstand the importance of cybersecurity practices and their impact for organizations.
+<br/> - Learnt and understand the importance of cybersecurity practices and their impact on organizations.
 <br/> - Identify common risks, threats, and vulnerabilities, as well as techniques to mitigate them.
 <br/> - Gain hands-on experience with Python, Linux, and SQL.
 <br/> - Protect networks, devices, people, and data from unauthorized access and cyberattacks using Security Information and Event Management (SIEM) tools.
