@@ -12,6 +12,8 @@
   - <i>Azure Sentinel SIEM and Honeypot</i>
 - <b> Malicious Doc </b>
   - [<i>Malicious Doc (Lets Defend.io)</i>](https://github.com/Doublesundae/Malicious-Doc-/tree/main)
+- <b> Disclose The Agent </b>
+  - [<i>Disclose The Agent </i> (Lets Defend.io)</i>](https://github.com/Doublesundae/Disclose-The-Agent-/tree/main)
   
 
 <h2>👨‍💻 Cyber Security Certifications:</h2>
