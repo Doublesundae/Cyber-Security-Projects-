@@ -1,4 +1,4 @@
-# Cyber-Security-Projects
+# Cyber-Security-Protfolio 
 
 <h1>Hi, I'm Khieandre  <br/><a href="https://github.com/Doublesundae">Help Desk Tech</a>, <a href="https://www.linkedin.com/in/khieandre-grant-2205b77a/">Aspiring Cybersecurity Professional</a>
 
@@ -10,6 +10,9 @@
   - [<i>Active Directory Home Lab</i>](https://github.com/Doublesundae/Active-Directory-Project-) 
 - <b>Azure Sentinel SIEM and Honeypot</b>
   - <i>Azure Sentinel SIEM and Honeypot</i>
+- <b> Malicious Doc </b>
+  - [<i>Malicious Doc (Lets Defend.io)</i>](https://github.com/Doublesundae/Malicious-Doc-/tree/main)
+  
 
 <h2>👨‍💻 Cyber Security Certifications:</h2>
 <br/><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-I6WULFSZOU.png"> SOC level 1 </a>
