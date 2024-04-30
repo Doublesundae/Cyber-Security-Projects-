@@ -29,7 +29,7 @@ In the Junior Security Analyst role, you will be a Triage Specialist. You will s
 <br/>
 
 
-<br/><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SBQHODZYOC.png"> Cyber Defense  </a>
+<br/><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SBQHODZYOC.png"> Cyber Defense </a>
 <br/>
 <br/> The Cyber Defense path aims to give a broad introduction to the different areas necessary to detect and respond to threats. This path will be looking at the following areas:
 
@@ -54,7 +54,9 @@ In the Junior Security Analyst role, you will be a Triage Specialist. You will s
 <br/><a href="https://drive.google.com/file/d/1cddKS1FbuZcpYpRircjtvOyUABJChHft/view"> Microsoft 365 Certified </a>
 
 
-<br/> Comptia Secuirty+ 
+<br/><a href="https://www.credly.com/earner/earned/badge/7fbb3d12-7c1d-471f-af08-406f00454881"> Comptia Security+ </a> 
+<br/>
+<br/> Knowledge and skills necessary to perform core security functions required of any cybersecurity role. CompTIA Security+ professionals know how to identify and address potential threats, attacks and vulnerabilities and they have established techniques in risk management, risk mitigation, threat management and intrusion detection.
 <br/>
 <br/> - General Security Concepts
 <br/> - Security Operations
