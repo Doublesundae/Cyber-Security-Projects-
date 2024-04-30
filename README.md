@@ -54,7 +54,14 @@ In the Junior Security Analyst role, you will be a Triage Specialist. You will s
 <br/><a href="https://drive.google.com/file/d/1cddKS1FbuZcpYpRircjtvOyUABJChHft/view"> Microsoft 365 Certified </a>
 
 
-<br/> Comptia Secuirty + (In Progress)
+<br/> Comptia Secuirty+ 
+<br/>
+<br/> - General Security Concepts
+<br/> - Security Operations
+<br/> - Threats, Vulnerabilities & Mitigations
+<br/> - Security Program Management & Oversight
+<br/> - Security Architecture
+<br/>
 
 
 
