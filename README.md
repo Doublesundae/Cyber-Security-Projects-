@@ -1,6 +1,6 @@
-# Cyber-Security-Portfolio 
+# Cyber  Security Portfolio 
 
-<h1>Hi, I'm Khieandre  <br/><a href="https://github.com/Doublesundae">Help Desk Tech</a>, <a href="https://www.linkedin.com/in/khieandre-grant-2205b77a/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, My Name is Khieandre  <br/><a href="https://github.com/Doublesundae">Help Desk Tech</a>, <a href="https://www.linkedin.com/in/khieandre-grant-2205b77a/">Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
