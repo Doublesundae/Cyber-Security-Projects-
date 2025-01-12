@@ -14,6 +14,8 @@
   - [<i>Malicious Doc (Lets Defend.io)</i>](https://github.com/Doublesundae/Malicious-Doc-/tree/main)
 - <b> Disclose The Agent </b>
   - [<i>Disclose The Agent </i> (Lets Defend.io)</i>](https://github.com/Doublesundae/Disclose-The-Agent-/tree/main)
+- <b> <i>Microsoft Certified Azure Security Engineer</b></i>
+  - [ <i> MS AZ 500 Project</i>](https://github.com/Khieandre/Microsoft-Certified-Azure-Security-Engineer-Associate)
   
 
 <h2>👨‍💻 Cyber Security Certifications:</h2>
